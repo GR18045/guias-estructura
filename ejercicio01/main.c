@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//programa para eliminar copiar un vector en otro
+//create: GR18045
 int main() {
     int tamanio,numero;
     printf("ingrese el tamaño del vector\n");

@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//programa para eliminar un elemento
+//create: GR18045
 int main() {
     int tamanio,posicion,numero;
     printf("ingrese el tamaño del vector\n");

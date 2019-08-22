@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include "math.h"
+//programa para calcular media, varianza y desviacion tipica de un vector
+//create: GR18045
 
 int main() {
     float numero=0,suma=0,media=0,varianza=0,desviacion=0,sumaC=0;
