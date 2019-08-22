@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ejercicio03.dir/main.c.o  -o ejercicio03 -lm 
